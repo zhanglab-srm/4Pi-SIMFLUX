@@ -1,0 +1,4 @@
+dipstart;
+warning off;
+% parpool;
+
