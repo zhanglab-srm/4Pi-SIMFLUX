@@ -1,5 +1,5 @@
 # 4Pi-SIMFLUX
-This package includes the Matlab code for 4Pi-SIMFLUX reconstruction.
+This package includes Matlab code for 4Pi-SIMFLUX reconstruction.
 
 # Requirements
   - Microsoft Windows 10 or newer, 64-bit
