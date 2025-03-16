@@ -4,7 +4,7 @@ This package includes the Matlab code for analyzing the dataset recorded on the 
 # Requirements
   - Microsoft Windows 10 or newer, 64-bit
   - CUDA-capable graphics card, minimum Compute Capability 4.0
-  - CUDA 11 compatible graphics driver
+  - CUDA compatible graphics driver
   - Matlab R2022b or newer  
     - Curve Fitting Toolbox
     - Optimization Toolbox
