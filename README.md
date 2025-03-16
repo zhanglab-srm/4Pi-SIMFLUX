@@ -1,5 +1,5 @@
 # 4Pi-SIMFLUX
-This package includes the Matlab code for analyzing the dataset recorded on the 4Pi-SIMFLUX microscope.
+This package includes the Matlab code for 4Pi-SIMFLUX reconstruction.
 
 # Requirements
   - Microsoft Windows 10 or newer, 64-bit
