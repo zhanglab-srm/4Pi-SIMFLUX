@@ -10,8 +10,8 @@ This package includes the Matlab code for analyzing the dataset recorded on the 
     - Optimization Toolbox
   - DIPimage Toolbox (http://www.diplib.org/download)
   - Some files from SMAP (included in this package) (https://github.com/jries/SMAP)
-  - DME (https://github.com/qnano/drift-estimation)
-  - ROSE (https://www.nature.com/articles/s41592-019-0544-2) 
+  - DME (included in this package) (https://github.com/qnano/drift-estimation)
+  - ROSE (included in this package) (https://www.nature.com/articles/s41592-019-0544-2) 
     
 # Installation
   - Download and install Matlab of the right version 
